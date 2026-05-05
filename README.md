@@ -1,3 +1,3 @@
 # Stock-Price-Prediction-model
-My first prediction model using logistic regression and random forest to predict stock prices
+This project develops a machine learning model to predict the next-day direction of stock prices using historical market data and engineered features such as moving averages and volatility. A baseline Logistic Regression model was compared with a Random Forest classifier, achieving an accuracy of 52% on out-of-sample test data. The results demonstrate that even modest predictive performance can provide actionable insights for trading when combined with proper risk management.
 <img width="472" height="402" alt="image" src="https://github.com/user-attachments/assets/122c9da5-8948-468d-9e39-befeff86a6b4" />
